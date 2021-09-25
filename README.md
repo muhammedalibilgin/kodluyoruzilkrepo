@@ -24,6 +24,16 @@ cd kodluyoruzilkrepo
 code .
 ```
 
+## Last View
+
+Proje:
+
+![Proje GitHub Resmi](proje.png)
+
+Publish:
+
+![Publish Resmi](lastview.png)
+
 ## License
 
 MIT
